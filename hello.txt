@@ -1,1 +1,3 @@
-hello.txt
+Hello GitHub!
+
+I'm a freshman majoring in Intelligent Manufacturing Engineering.
